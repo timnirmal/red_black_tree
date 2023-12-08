@@ -1,5 +1,5 @@
 # red_black_tree example run
-
+```
 Enter command (or 'Exit' to quit): 5 10 15 20 25 30 35 40 50
 B20
 ├──R30
@@ -25,3 +25,4 @@ Enter command (or 'Exit' to quit): Min
 Minimum value: 5
 Enter command (or 'Exit' to quit): Max
 Maximum value: 50
+```
